@@ -4,6 +4,8 @@ Software Engineer, enthusiastic hacker. Curiosity drives me.
 
 Currently Working @Capgemini
 
+ <sup>I work on a company self hosted gitlab server, so not many commits around here 😅<sup>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaschalegre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/douglaschalegre//)](https://www.linkedin.com/in/douglaschalegre)
