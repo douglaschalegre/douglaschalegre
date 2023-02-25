@@ -2,9 +2,7 @@
 
 Software Engineer, enthusiastic hacker. Curiosity drives me.
 
-Currently Working @Capgemini
-
- <sup>I work on a company self hosted gitlab server, so not many commits around here 😅<sup>
+Currently Working @ LCCV/UFAL - Scientific Computing and Visualization Laboratory
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaschalegre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
